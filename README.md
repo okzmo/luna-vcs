@@ -35,8 +35,3 @@ This take all your latest changes if any commit them and then squash everything 
 Of course it's pretty scarce in terms of features, there might be bugs but again it's a prototype to see if it was possible and clearly it is.
 
 If you somehow want to sponsor this project so I can dive deeper on it or simply want to contribute hmu!
-```
-```
-```
-```
-```
